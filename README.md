@@ -9,7 +9,7 @@ I'm a cybersecurity student and cloud enthusiast focused on building secure infr
 * **Blockchain:** Stellar / Soroban Smart Contracts
 
 ### 🌱 Currently Learning & Building
-* Studying for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.
+* Currently undergoing a Google Cloud Cybersecurity certification program in GCP.
 * Developing **StellarScout**, a modular security scanner for Soroban smart contracts.
 * Maintaining my daily streak learning Japanese (日本語 🇯🇵).
 
