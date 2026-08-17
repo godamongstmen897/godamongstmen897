@@ -27,11 +27,10 @@ Undergraduate cybersecurity student, open-source maintainer, and cloud security 
 - 💻 **Languages:** Python, Rust, Bash, SQL, TypeScript
 - ⛓️ **Web3 & Blockchain:** Stellar / Soroban Smart Contracts
 - 🌱 Currently working toward the **Google Cloud Cybersecurity Certification**
-- 🈴 Keeping a daily streak learning **Japanese**
 
 <br/>
 
-## 🛠️ Tech I Use
+## Tech I Use
 
 <div align="center">
 
@@ -58,7 +57,7 @@ Undergraduate cybersecurity student, open-source maintainer, and cloud security 
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 [SentinelIAM](https://github.com/godamongstmen897/AWS-IAM-Policy-Linter)
+### [SentinelIAM](https://github.com/godamongstmen897/AWS-IAM-Policy-Linter)
 A TypeScript-based security tool that instantly parses JSON IAM policies to flag overly permissive actions (`*`, `s3:*`) and missing resource restrictions — with Claude integrated server-side.
 
 `TypeScript` `AWS IAM` `Security`
@@ -69,7 +68,7 @@ A TypeScript-based security tool that instantly parses JSON IAM policies to flag
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [Milestone Escrow](https://github.com/Goldii-locks/escrow-contract)
+### [Milestone Escrow](https://github.com/Goldii-locks/escrow-contract)
 Trustless, milestone-based escrow on Stellar Soroban. Three-repo architecture — [Rust/Soroban contract](https://github.com/Goldii-locks/escrow-contract), [Node.js/Express/TypeScript backend](https://github.com/Goldii-locks/escrow-backend), [Next.js/Tailwind frontend](https://github.com/Goldii-locks/escrow-frontend). Active in Drips Wave.
 
 `Rust` `Soroban` `Next.js`
@@ -82,7 +81,7 @@ Trustless, milestone-based escrow on Stellar Soroban. Three-repo architecture �
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [AureumDCA](https://github.com/AureumDCA/dca-vault-contract)
+### [AureumDCA](https://github.com/AureumDCA/dca-vault-contract)
 Trustless DCA vault on Stellar Soroban with on-chain AMM execution — [contract](https://github.com/AureumDCA/dca-vault-contract), [backend](https://github.com/AureumDCA/dca-vault-backend), [frontend](https://github.com/AureumDCA/dca-vault-frontend). Deployed to testnet, live backend and frontend, Drips Wave appeal submitted.
 
 `Soroban` `Rust` `TypeScript`
@@ -93,7 +92,7 @@ Trustless DCA vault on Stellar Soroban with on-chain AMM execution — [contract
 </td>
 <td width="50%" valign="top">
 
-### 🧰 [Soro-Bix](https://github.com/Soro-Bix/soroban-scaffold)
+### [Soro-Bix](https://github.com/Soro-Bix/soroban-scaffold)
 Open-source developer tooling org for the Soroban ecosystem — [soroban-scaffold](https://github.com/Soro-Bix/soroban-scaffold) and [soroban-scaffold-templates](https://github.com/Soro-Bix/soroban-scaffold-templates), built to make Soroban development smoother for other developers.
 
 `Developer Tools` `TypeScript` `Soroban`
